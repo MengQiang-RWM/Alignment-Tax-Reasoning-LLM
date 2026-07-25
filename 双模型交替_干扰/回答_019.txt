@@ -1,0 +1,18 @@
+Certainly! Here is the step-by-step solution using the reference approach:
+
+1. **Initial number of apples:** 
+   - Xiao Ming starts with 3 apples.
+
+2. **Apples given to Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - After receiving the apple from Xiao Hua, Xiao Ming’s total becomes \(3 + 1 = 4\) apples.
+
+3. **Apples left for Xiao Hong:**
+   - Xiao Hong initially had 5 apples (since she received one from Xiao Hua).
+   - Xiao Hong receives 2 more apples than Xiao Ming.
+   - Therefore, Xiao Hong receives \(5 + 2 = 7\) apples.
+
+4. **Total apples Xiao Hong has:**
+   - Xiao Hong has 7 apples in total.
+
+Thus, Xiao Ming now has \(\boxed{10}\) apples.

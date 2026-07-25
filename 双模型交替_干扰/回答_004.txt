@@ -1,0 +1,25 @@
+To determine how many apples Xiao Ming has now, let's follow the sequence of events described in the reference solution:
+
+1. **Initial number of apples:**
+   - Xiao Ming starts with 3 apples.
+
+2. **Apples given by Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - The new total for Xiao Ming is: 
+     \[
+     3 + 1 = 4 \text{ apples}
+     \]
+
+3. **Apples carried by Xiao Hong:**
+   - Xiao Hong initially had 2 more apples than Xiao Ming.
+   - Number of apples Xiao Hong has: 
+     \[
+     3 + 2 = 5 \text{ apples}
+     \]
+   - Xiao Hong transfers 1 apple to Xiao Ming.
+   - After transferring the apple, Xiao Ming’s total becomes:
+     \[
+     4 + 1 = 5 \text{ apples}
+     \]
+
+Therefore, after all the exchanges, Xiao Ming now has \(\boxed{5}\) apples.

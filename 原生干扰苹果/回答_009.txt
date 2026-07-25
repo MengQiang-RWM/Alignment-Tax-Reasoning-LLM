@@ -1,0 +1,36 @@
+Let's denote the number of apples Xiao Ming originally had as \( M \), the number of apples Xiao Hua originally had as \( H \), and the number of apples Xiao Hong originally had as \( R \).
+
+From the problem, we know:
+1. Xiao Ming initially has 3 apples: \( M = 3 \).
+2. Xiao Hua gives 1 apple to Xiao Ming. So, Xiao Hua has \( H - 1 \) apples.
+3. Xiao Hua has half as many apples as Xiao Hong: \( H - 1 = \frac{1}{2}R \).
+4. Xiao Hong carries a cute backpack with 2 more apples than Xiao Ming: \( R + 2 = M + 2 \).
+
+First, let's express \( H \) in terms of \( R \):
+\[ H - 1 = \frac{1}{2}R \]
+Multiplying both sides by 2 to clear the fraction, we get:
+\[ 2H - 2 = R \]
+So,
+\[ R = 2H - 2 \]
+
+Next, substitute \( R \) into the equation for \( H \):
+\[ H - 1 = \frac{1}{2}(2H - 2) \]
+Simplify the right side:
+\[ H - 1 = H - 1 \]
+This is an identity, so it doesn't give us new information about \( H \). Instead, let's use the second condition \( H - 1 = \frac{1}{2}R \) directly.
+
+Now, let's find \( R \):
+\[ R = 2H - 2 \]
+We need to find \( H \) such that this relationship holds true. Since \( R \) must be a positive integer, let's test some values for \( H \):
+
+If \( H = 5 \):
+\[ R = 2(5) - 2 = 8 \]
+Check if \( H - 1 = \frac{1}{2}R \):
+\[ 5 - 1 = \frac{1}{2} \times 8 \]
+\[ 4 = 4 \]
+This is true, so \( H = 5 \) and \( R = 8 \).
+
+Now, we can determine the number of apples each person has:
+- Xiao Ming has 3 apples.
+- Xiao Hua has \( 5 - 1 = 4 \) apples.
+- Xiao Hong

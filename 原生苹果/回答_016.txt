@@ -1,0 +1,19 @@
+Let's break down the problem step by step:
+
+1. **Initial number of apples:**
+   - Xiao Ming has 3 apples.
+   - Xiao Hong has 2 more apples than Xiao Ming, so Xiao Hong has \(3 + 2 = 5\) apples.
+
+2. **Apples given by Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+
+3. **Calculation of remaining apples for Xiao Ming after giving one apple to Xiao Ming:**
+   - After giving away one apple, Xiao Ming will have \(3 - 1 = 2\) apples left.
+   - After receiving one apple from Xiao Hua, Xiao Ming will have \(2 + 1 = 3\) apples in total.
+
+So, Xiao Ming now has 3 apples. This solution is based on the following steps:
+- Initial count of apples: 3 (Xiao Ming) + 2 (apples from Xiao Hong) = 5
+- Apples given by Xiao Hua: 1
+- Remaining apples with Xiao Ming after receiving one: 3
+
+Thus, Xiao Ming ends up with 3 apples.

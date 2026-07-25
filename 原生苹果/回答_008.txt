@@ -1,0 +1,42 @@
+Let's break down the problem step by step:
+
+1. **Initial number of apples**: Xiao Ming starts with 3 apples.
+   \[
+   \text{Apples Xiao Ming has} = 3
+   \]
+
+2. **Number of apples Xiao Hong has**: Xiao Hong has 2 more apples than Xiao Ming.
+   \[
+   \text{Apples Xiao Hong has} = 3 + 2 = 5
+   \]
+
+3. **Number of apples Xiao Hua has**: Xiao Hua has half as many apples as Xiao Hong.
+   \[
+   \text{Apples Xiao Hua has} = \frac{5}{2} = 2.5
+   \]
+   Since the number of apples must be an integer (you can't give away half an apple), we round this to the nearest whole number. In practical terms, Xiao Hua would ideally have 3 apples (since he can only give one apple).
+
+4. **Total apples before giving any to Xiao Ming**:
+   \[
+   \text{Total apples before giving any to Xiao Ming} = \text{Xiao Ming's apples} + \text{Xiao Hong's apples} + \text{Xiao Hua's apples}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Total apples before giving any to Xiao Ming} = 3 + 5 + 3 = 11
+   \]
+
+5. **Apples given to Xiao Ming**:
+   \[
+   \text{Apples given to Xiao Ming} = 1
+   \]
+
+6. **Final number of apples Xiao Ming has**:
+   \[
+   \text{Final number of apples Xiao Ming has} = \text{Total apples before giving any to Xiao Ming} - \text{Apples given to Xiao Ming}
+   \]
+   Substituting the values we found:
+   \[
+   \text{Final number of apples Xiao Ming has} = 11 - 1 = 10
+   \]
+
+So, after giving 1 apple to Xiao Ming, Xiao Ming has 10 apples left.

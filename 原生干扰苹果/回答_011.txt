@@ -1,0 +1,41 @@
+Let's start by determining how many apples each person has initially.
+
+1. **Initial number of apples:**
+   - Xiao Ming starts with 3 apples.
+   
+2. **Apples given to Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - Therefore, the total number of apples Xiao Ming has after receiving from Xiao Hua is:
+     \[
+     3 + 1 = 4
+     \]
+
+3. **Number of apples Xiao Hua has:**
+   - Xiao Hua originally had 0 apples (since he didn't give any).
+   - After receiving 1 apple from Xiao Ming, he has:
+     \[
+     0 + 1 = 1
+     \]
+   - So, Xiao Hua has 1 apple.
+
+4. **Apples carried by Xiao Hong:**
+   - Xiao Hong carries a backpack with 2 more apples than Xiao Ming.
+   - Since Xiao Ming started with 3 apples, carrying 2 more apples means she has:
+     \[
+     3 + 2 = 5 \text{ apples}
+     \]
+
+5. **Total number of apples Xiao Hong has:**
+   - Xiao Hong also has 1 apple (from her own backpack) plus the 2 apples she received from Xiao Hua.
+   - Therefore, the total number of apples Xiao Hong has is:
+     \[
+     1 + 2 = 3
+     \]
+
+6. **Final number of apples Xiao Ming has:**
+   - After receiving apples from Xiao Hua and carrying apples from Xiao Hong, Xiao Ming ends up with:
+     \[
+     4 + 3 = 7
+     \]
+
+Thus, the final number of apples Xiao Ming has is \(\boxed{7}\).

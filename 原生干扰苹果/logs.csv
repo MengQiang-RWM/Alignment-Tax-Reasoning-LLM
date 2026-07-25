@@ -1,0 +1,21 @@
+timestamp,stage,question_index,question_text,start_time,end_time,duration_seconds,cpu_before,cpu_peak,memory_used_mb,has_error,error_types,severity,has_jump,answer
+2026-07-10_15-40-56,原生干扰基线_新0.5,1,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:40:37,2026-07-10 15:40:56,19.1961,0.0,468.0,1449.89,True,静默跳跃-无害型,low,True,4
+2026-07-10_15-41-19,原生干扰基线_新0.5,2,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:40:56,2026-07-10 15:41:19,22.906,0.0,620.0,1450.25,True,静默跳跃-无害型,low,True,4
+2026-07-10_15-41-41,原生干扰基线_新0.5,3,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:41:19,2026-07-10 15:41:41,21.9944,0.0,559.3,1449.55,True,运算方向反转,high,False,wrong
+2026-07-10_15-42-01,原生干扰基线_新0.5,4,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:41:41,2026-07-10 15:42:01,19.6725,0.0,623.0,1450.38,True,运算方向反转,high,True,wrong
+2026-07-10_15-42-27,原生干扰基线_新0.5,5,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:42:01,2026-07-10 15:42:27,25.9172,0.0,497.0,1450.23,False,,none,False,4
+2026-07-10_15-43-07,原生干扰基线_新0.5,6,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:42:27,2026-07-10 15:43:07,40.732,0.0,623.0,1453.11,False,,none,False,4
+2026-07-10_15-43-40,原生干扰基线_新0.5,7,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:43:07,2026-07-10 15:43:40,32.4109,0.0,466.9,1450.71,False,,none,False,4
+2026-07-10_15-43-57,原生干扰基线_新0.5,8,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:43:40,2026-07-10 15:43:57,17.509,0.0,527.2,1449.97,True,静默跳跃-无害型,low,True,4
+2026-07-10_15-44-37,原生干扰基线_新0.5,9,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:43:57,2026-07-10 15:44:37,40.0798,0.0,465.8,1453.29,False,,none,False,4
+2026-07-10_15-44-57,原生干扰基线_新0.5,10,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:44:38,2026-07-10 15:44:57,19.3199,0.0,589.7,1449.85,True,静默跳跃-无害型,low,True,4
+2026-07-10_15-45-26,原生干扰基线_新0.5,11,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:44:57,2026-07-10 15:45:26,29.5163,0.0,467.0,1450.19,True,静默跳跃-无害型,low,True,4
+2026-07-10_15-45-49,原生干扰基线_新0.5,12,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:45:26,2026-07-10 15:45:49,22.5191,0.0,559.4,1449.66,False,,none,False,4
+2026-07-10_15-46-10,原生干扰基线_新0.5,13,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:45:49,2026-07-10 15:46:10,20.5422,0.0,622.7,1450.0,True,静默跳跃-无害型,low,True,4
+2026-07-10_15-46-27,原生干扰基线_新0.5,14,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:46:10,2026-07-10 15:46:27,17.4459,0.0,621.9,1450.08,True,静默跳跃-无害型,low,True,4
+2026-07-10_15-46-55,原生干扰基线_新0.5,15,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:46:27,2026-07-10 15:46:55,28.3515,0.0,499.3,1450.35,True,静默跳跃-无害型,low,True,4
+2026-07-10_15-47-20,原生干扰基线_新0.5,16,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:46:56,2026-07-10 15:47:20,24.9883,0.0,467.9,1444.67,True,静默跳跃-无害型,low,True,4
+2026-07-10_15-47-59,原生干扰基线_新0.5,17,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:47:21,2026-07-10 15:47:59,38.4222,0.0,622.6,1447.07,False,,none,False,4
+2026-07-10_15-48-40,原生干扰基线_新0.5,18,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:47:59,2026-07-10 15:48:40,40.5126,0.0,466.1,1446.95,True,静默跳跃-无害型,low,True,4
+2026-07-10_15-49-12,原生干扰基线_新0.5,19,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:48:40,2026-07-10 15:49:12,32.2239,0.0,467.6,1444.01,True,局部自洽全局崩溃,high,True,wrong
+2026-07-10_15-49-42,原生干扰基线_新0.5,20,Xiao Ming has 3 apples. Xiao Hua wore a red short and gave 1 apple to Xiao Ming....,2026-07-10 15:49:12,2026-07-10 15:49:42,30.1307,0.0,468.1,1444.14,False,,none,False,4

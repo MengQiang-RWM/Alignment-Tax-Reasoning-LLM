@@ -1,0 +1,13 @@
+Let's break down the problem in detail to ensure we understand each step clearly:
+
+1. **Initial Count:** Xiao Ming starts with 3 apples.
+
+2. **Apples Given by Xiao Hua:** 
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - So, Xiao Ming’s new count becomes \(3 - 1 = 2\) apples.
+
+3. **Apples Given by Xiao Hong:**
+   - Xiao Hong receives 2 more apples.
+   - So, Xiao Ming’s total count becomes \(2 + 2 = 4\) apples.
+
+Thus, after these exchanges, Xiao Ming has 4 apples.

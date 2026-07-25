@@ -1,0 +1,23 @@
+Let's denote the number of apples Xiao Ming originally had as \( M \), the number of apples Xiao Hua originally had as \( H \), and the number of apples Xiao Hong originally had as \( R \).
+
+From the problem statement, we know:
+1. Xiao Hua gave 1 apple to Xiao Ming.
+2. Xiao Hua has half as many apples as Xiao Hong initially.
+3. Xiao Hong carried a cute backpack with 2 more apples than Xiao Ming initially.
+
+First, let's determine how many apples Xiao Hua and Xiao Hong each have after Xiao Hua gives 1 apple to Xiao Ming. Since Xiao Hua gives 1 apple to Xiao Ming, Xiao Hua will have \( H - 1 \) apples and Xiao Hong will have \( R + 2 \) apples.
+
+According to the problem, Xiao Hua has half as many apples as Xiao Hong initially. Therefore, we can write the equation:
+\[ H - 1 = \frac{1}{2}(R + 2) \]
+
+We also know that Xiao Hua originally had \( H \) apples and Xiao Hong originally had \( R \) apples. So, we can substitute these values into our equation:
+\[ H - 1 = \frac{1}{2}R + 1 \]
+Multiplying both sides by 2 to clear the fraction, we get:
+\[ 2H - 2 = R + 2 \]
+Rearranging terms, we find:
+\[ R = 2H - 4 \]
+
+Next, we need to express the total number of apples Xiao Ming has now in terms of \( M \). Initially, Xiao Ming had 3 apples. After receiving 1 apple from Xiao Hua, he now has \( M + 1 \) apples. Additionally, since Xiao Hua gave 1 apple to Xiao Ming, Xiao Ming still has 2 apples (since he started with 3 and received 1 from Xiao Hua). Therefore, the total number of apples Xiao Ming has now is:
+\[ M + 1 + 2 = M + 3 \]
+
+Now, we need to find out how many apples Xiao Hua has now. From the equation \( H - 1 = \frac{1}{2}(R + 2) \), we can see that \( R + 2 = 2H - 4 \), so \( H - 1 = \frac{1}{2}(2H - 4) \).

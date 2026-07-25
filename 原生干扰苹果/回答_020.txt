@@ -1,0 +1,28 @@
+Let's denote the number of apples Xiao Ming originally had as \( x \), the number of apples Xiao Hua originally had as \( y \), and the number of apples Xiao Hong originally had as \( z \).
+
+From the problem, we know:
+1. Xiao Ming initially has 3 apples.
+2. Xiao Hua gives 1 apple to Xiao Ming, so Xiao Ming has \( x - 1 \) apples.
+3. Xiao Hua has half as many apples as Xiao Hong, so \( y = \frac{z}{2} \).
+4. Xiao Hong carries a cute backpack with 2 more apples than Xiao Ming, so \( z = x + 2 \).
+
+Since Xiao Ming initially had 3 apples, we can write:
+\[ x - 1 = 3 \]
+Solving for \( x \):
+\[ x = 4 \]
+
+Now, substituting \( x = 4 \) into the equation \( z = x + 2 \):
+\[ z = 4 + 2 = 6 \]
+
+Next, we need to determine how many apples Xiao Hua has. Since \( y = \frac{z}{2} \):
+\[ y = \frac{6}{2} = 3 \]
+
+So, Xiao Hua has 3 apples. Now, let's find out how many apples Xiao Hong has. We already know that \( z = x + 2 \):
+\[ z = 4 + 2 = 6 \]
+
+Therefore, Xiao Hong also has 6 apples.
+
+To summarize, after giving away 1 apple to Xiao Ming, Xiao Ming has \( 4 - 1 = 3 \) apples, Xiao Hua has 3 apples, and Xiao Hong has 6 apples. So, the final answer is:
+\[
+\boxed{3}
+\]

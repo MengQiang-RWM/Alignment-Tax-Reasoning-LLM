@@ -1,0 +1,33 @@
+Let's start by determining how many apples Xiao Ming had initially.
+
+1. Xiao Ming originally had 3 apples.
+2. Xiao Hua gave 1 apple to Xiao Ming. So, after receiving the apple from Xiao Hua, Xiao Ming has:
+   \[
+   3 + 1 = 4 \text{ apples}
+   \]
+3. According to the problem, Xiao Hua then has half as many apples as Xiao Hong. Let \( x \) be the number of apples Xiao Hong has. Then, Xiao Hua has:
+   \[
+   \frac{x}{2} \text{ apples}
+   \]
+4. The problem also states that Xiao Hong has 2 more apples than Xiao Ming. Therefore, we can write:
+   \[
+   x = 4 + 2
+   \]
+5. Solving for \( x \):
+   \[
+   x = 6
+   \]
+So, Xiao Hong has 6 apples.
+
+Now, let's determine how many apples Xiao Ming has now.
+
+- Xiao Ming originally had 3 apples.
+- After receiving one apple from Xiao Hua, Xiao Ming has:
+  \[
+  3 + 1 = 4 \text{ apples}
+  \]
+
+Thus, the final number of apples Xiao Ming has is:
+\[
+\boxed{4}
+\]

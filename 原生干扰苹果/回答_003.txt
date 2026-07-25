@@ -1,0 +1,11 @@
+Let's denote the number of apples Xiao Ming originally had as \( x \). According to the problem, after Xiao Hua gave him one apple, he would have \( x - 1 \) apples left.
+
+The problem also states that Xiao Hua gave away half of his apples to Xiao Ming. This means that before giving away his share, Xiao Hua had twice as many apples as Xiao Ming initially had. Therefore, we can write the equation:
+\[ 2(x - 1) = 2x \]
+This equation confirms that the initial number of apples Xiao Hua had is equal to the original number of apples Xiao Ming had plus the additional apples given to him (which is zero in this case since it was just an act).
+
+Now, let's determine how many apples Xiao Hong had initially. The problem states that Xiao Hong carried a cute backpack with 2 more apples than Xiao Ming. Since Xiao Ming originally had 3 apples, Xiao Hong had \( 3 + 2 = 5 \) apples.
+
+After receiving some apples from Xiao Hua, Xiao Ming had \( 3 - 1 = 2 \) apples left. We already know that Xiao Hua gave him 1 apple, so now Xiao Ming has \( 2 + 1 = 3 \) apples.
+
+Therefore, the number of apples Xiao Ming has now is \(\boxed{3}\).

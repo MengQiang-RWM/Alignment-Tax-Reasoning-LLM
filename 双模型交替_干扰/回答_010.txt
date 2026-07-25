@@ -1,0 +1,9 @@
+Sure! Let's summarize the steps again:
+
+1. **Initial number of apples:** Xiao Ming starts with 3 apples.
+2. **Apples given by Xiao Hua:** Xiao Hua gives 1 apple to Xiao Ming.
+   - New number of apples for Xiao Ming: \( 3 + 1 = 4 \).
+3. **Apples carried by Xiao Hong:** Xiao Hong carries a cute backpack with 2 more apples than Xiao Ming.
+   - Number of apples Xiao Hong has: \( 3 + 2 = 5 \).
+
+Therefore, Xiao Ming now has 4 apples.

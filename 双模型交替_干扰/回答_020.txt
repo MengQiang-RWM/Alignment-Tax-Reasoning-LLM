@@ -1,0 +1,19 @@
+Certainly! Let's go through the solution step-by-step based on the information provided in the reference reasoning.
+
+### Initial Setup
+- Xiao Ming starts with 3 apples.
+
+### Apples Given by Xiao Hua
+- Xiao Hua gives 1 apple to Xiao Ming.
+- So, after receiving the apple, Xiao Ming has \( 3 + 1 = 4 \) apples.
+
+### Apples Received by Xiao Hong
+- Xiao Hong receives an additional 2 apples from Xiao Ming.
+- Therefore, Xiao Hong now has \( 4 + 2 = 6 \) apples.
+
+### Final Number of Apples for Xiao Ming
+- After receiving 2 more apples from Xiao Hong, Xiao Ming has 4 apples left.
+- Then, Xiao Hong receives another 2 apples from Xiao Ming.
+- Thus, Xiao Ming ends up with \( 4 + 2 = 6 \) apples.
+
+So, Xiao Ming now has \(\boxed{6}\) apples.

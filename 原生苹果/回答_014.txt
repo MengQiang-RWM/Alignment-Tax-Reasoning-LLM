@@ -1,0 +1,24 @@
+To determine how many apples Xiao Ming has after the exchange with Xiao Hua, we can follow these steps:
+
+1. **Initial number of apples:**
+   - Xiao Ming has 3 apples.
+   - Xiao Hong has 2 more apples than Xiao Ming.
+     \[
+     \text{Apples for Xiao Hong} = 3 + 2 = 5
+     \]
+   - Therefore, Xiao Hua has:
+     \[
+     \text{Apples for Xiao Hua} = 5
+     \]
+
+2. **Exchange between Xiao Ming and Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+     \[
+     \text{New number of apples with Xiao Ming} = 3 - 1 = 2
+     \]
+   - So, after the exchange, Xiao Ming has:
+     \[
+     \text{Apples for Xiao Ming} = 2
+     \]
+
+Thus, Xiao Ming now has \(\boxed{2}\) apples. This solution is based on the given initial conditions and follows through the arithmetic operations required to reach the final count.

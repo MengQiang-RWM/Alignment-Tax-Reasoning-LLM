@@ -1,0 +1,36 @@
+Let's break down the problem step by step:
+
+1. **Initial Number of Apples**: Xiao Ming starts with 3 apples.
+   \[
+   \text{Apples before giving} = 3
+   \]
+
+2. **Apples Given by Xiao Hua**: Xiao Hua gives 1 apple to Xiao Ming.
+   \[
+   \text{Apples after receiving from Xiao Hua} = 3 - 1 = 2
+   \]
+
+3. **Number of Apples Xiao Hua Has**: Xiao Hua originally had 3 apples and then received 1 more from Xiao Ming:
+   \[
+   \text{Apples Xiao Hua has} = 3 + 1 = 4
+   \]
+
+4. **Apples Carried by Xiao Hong**: Xiao Hong carries an apple that is twice the number of apples Xiao Ming originally had:
+   \[
+   \text{Apples carried by Xiao Hong} = 2 \times (3 - 2) = 2 \times 1 = 2
+   \]
+
+5. **Total Apples Xiao Hong Carries**: Add the apples carried by Xiao Hong to the total number of apples Xiao Hua has:
+   \[
+   \text{Total apples carried by Xiao Hong} = 4 + 2 = 6
+   \]
+
+6. **Final Number of Apples Xiao Ming Has**: Add the apples carried by Xiao Hong to the apples Xiao Hua has:
+   \[
+   \text{Final number of apples Xiao Ming has} = 2 + 6 = 8
+   \]
+
+Therefore, the final number of apples Xiao Ming has is:
+\[
+\boxed{8}
+\]

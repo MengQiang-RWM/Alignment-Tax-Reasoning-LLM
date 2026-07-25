@@ -1,0 +1,20 @@
+To determine how many apples Xiao Ming has after the events described, we will follow these steps:
+
+1. Determine how many apples Xiao Ming initially had.
+2. Calculate how many apples Xiao Hua has after giving some to Xiao Ming.
+3. Calculate how many apples Xiao Hong has after receiving some from Xiao Hua.
+
+Let's start with step 1:
+- Xiao Ming initially has 3 apples.
+- Xiao Hua gives 1 apple to Xiao Ming.
+- Therefore, Xiao Ming has \(3 - 1 = 2\) apples left.
+
+Next, let's move to step 2:
+- After receiving 1 apple from Xiao Hua, Xiao Ming now has \(2 + 1 = 3\) apples.
+- Now, Xiao Hong receives 2 more apples from Xiao Hua, so she has \(3 + 2 = 5\) apples in total.
+
+Finally, let's complete step 3:
+- Xiao Hong originally had 0 apples (since she didn't receive any).
+- She received 2 more apples from Xiao Hua, so she now has \(5 + 2 = 7\) apples.
+
+Therefore, the number of apples Xiao Ming has now is \(\boxed{3}\).

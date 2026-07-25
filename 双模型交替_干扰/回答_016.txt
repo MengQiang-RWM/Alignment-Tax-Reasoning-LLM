@@ -1,0 +1,14 @@
+To determine how many apples Xiao Ming has now, we'll follow these steps:
+
+1. **Initial number of apples**: Xiao Ming starts with 3 apples.
+   
+2. **Apples given by Xiao Hua**: 
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - New number of apples Xiao Ming has: \( 3 + 1 = 4 \)
+
+3. **Apples received by Xiao Hong**: 
+   - Xiao Hong receives 2 more apples than Xiao Ming.
+   - Since Xiao Ming currently has 4 apples, Xiao Hong will receive \( 4 + 2 = 6 \) apples.
+   - New number of apples Xiao Ming has: \( 4 + 6 = 10 \)
+
+Thus, after all these transactions, Xiao Ming has 10 apples.

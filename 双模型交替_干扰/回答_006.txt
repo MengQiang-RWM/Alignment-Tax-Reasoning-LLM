@@ -1,0 +1,18 @@
+Certainly! Let's go through the problem step by step using the reference solution method:
+
+1. **Initial number of apples:** 
+   - Xiao Ming starts with 3 apples.
+
+2. **Apples given to Xiao Ming:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - New number of apples Xiao Ming has = 3 (initial) + 1 (given) = 4 apples.
+
+3. **Apples carried by Xiao Hong:**
+   - Xiao Hong has 2 more apples than Xiao Ming.
+   - Number of apples Xiao Hong has = 4 + 2 = 6.
+
+4. **Final number of apples Xiao Ming has:**
+   - Xiao Ming receives 1 apple from Xiao Hua.
+   - Final number of apples Xiao Ming has = 4 (current) + 1 (received) = 5 apples.
+
+Therefore, after receiving one apple from Xiao Hua, Xiao Ming has 5 apples now.

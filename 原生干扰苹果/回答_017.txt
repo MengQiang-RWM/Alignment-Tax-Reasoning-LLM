@@ -1,0 +1,36 @@
+Let's break down the problem step by step.
+
+1. **Initial number of apples:**
+   - Xiao Ming starts with 3 apples.
+   - Let \( x \) be the number of apples Xiao Hong has initially.
+   - Therefore, Xiao Hong has \( x + 2 \) apples (since she has 2 more apples than Xiao Ming).
+
+2. **Apples given to Xiao Ming:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - So, Xiao Ming now has \( 3 - 1 = 2 \) apples.
+   - Xiao Hong now has \( x + 2 - 1 = x + 1 \) apples.
+
+3. **Apples left for Xiao Hong after giving some to Xiao Ming:**
+   - Xiao Hong originally had \( x + 2 \) apples.
+   - After receiving 1 apple from Xiao Hua, she has \( x + 2 - 1 = x + 1 \) apples.
+   - This means that after giving away 1 apple, Xiao Hong is left with \( x + 1 \) apples.
+
+4. **Apples left for Xiao Ming:**
+   - According to the problem, Xiao Hong has half as many apples as Xiao Ming after giving one apple.
+   - Since Xiao Hong originally had \( x + 1 \) apples, which is twice the number of apples Xiao Ming has, we can set up the equation:
+     \[
+     x + 1 = \frac{1}{2} \times 2 \times \text{(number of apples Xiao Ming has)}
+     \]
+   - Simplifying this, we get:
+     \[
+     x + 1 = 1 \times \text{(number of apples Xiao Ming has)} \implies x + 1 = 1 \times \text{(number of apples Xiao Ming has)}
+     \]
+
+5. **Solving for \( x \):**
+   - From the equation \( x + 1 = 1 \), we can see that \( x = 0 \).
+   - If \( x = 0 \), then Xiao Hong has 1 apple, and Xiao Ming still has 2 apples.
+
+6. **Final answer:**
+   - Xiao Ming has 2 apples.
+
+So, the final answer is \(\boxed{2}\).

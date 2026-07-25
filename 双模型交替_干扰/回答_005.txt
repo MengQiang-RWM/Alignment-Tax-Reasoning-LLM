@@ -1,0 +1,13 @@
+Sure, let's go through the problem systematically:
+
+1. **Initial number of apples:**
+   - Xiao Ming starts with 3 apples.
+
+2. **Apples given by Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - After receiving this apple, Xiao Ming's new total is \(3 + 1\).
+   - Calculating this, we get \(3 + 1 = 4\) apples.
+
+Therefore, after receiving one apple from Xiao Hua, Xiao Ming has 4 apples.
+
+The final answer is \(\boxed{4}\).

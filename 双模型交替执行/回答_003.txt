@@ -1,0 +1,28 @@
+To determine how many apples Xiao Ming has after receiving one from Xiao Hua, we can follow these steps:
+
+1. **Initial Apples Calculation**:
+   - Xiao Ming starts with 3 apples.
+   - Xiao Hong has 2 more apples than Xiao Ming.
+     \[
+     \text{Apples Xiao Hong has} = 3 + 2 = 5
+     \]
+
+2. **Apples Xiao Hua Has**:
+   - Xiao Hua has half as many apples as Xiao Hong.
+     \[
+     \text{Apples Xiao Hua has} = \frac{5}{2} = 2.5
+     \]
+
+3. **Apples Given to Xiao Ming**:
+   - Xiao Hua gives 1 apple to Xiao Ming.
+     \[
+     \text{Apples given to Xiao Ming} = 1
+     \]
+
+4. **Final Total Apples**:
+   - Xiao Ming’s final total number of apples is:
+     \[
+     \text{Total apples Xiao Ming has now} = 3 + 1 = 4
+     \]
+
+Therefore, after receiving one apple from Xiao Hua, Xiao Ming now has 4 apples.
