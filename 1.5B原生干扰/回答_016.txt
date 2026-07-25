@@ -1,0 +1,32 @@
+To determine how many apples Xiao Ming has now, let's break down the problem step by step.
+
+1. **Initial Apples**: Xiao Ming starts with 3 apples.
+   
+2. **Apples Given by Xiao Hua**: Xiao Hua gives 1 apple to Xiao Ming.
+   \[
+   \text{New number of apples Xiao Ming has} = 3 + 1 = 4
+   \]
+
+3. **Relationship Between Xiao Hua and Xiao Hong**: According to the problem, Xiao Hua has half as many apples as Xiao Hong.
+   Let \( x \) be the number of apples Xiao Hong has initially. Then:
+   \[
+   \frac{x}{2} = 1 \implies x = 2
+   \]
+   So, Xiao Hong has 2 apples initially.
+
+4. **Apples Carried by Xiao Hong**: Xiao Hong carries a backpack with 2 more apples than Xiao Ming.
+   Since Xiao Ming has 4 apples, Xiao Hong has:
+   \[
+   4 + 2 = 6 \text{ apples}
+   \]
+
+5. **Final Calculation for Xiao Ming**:
+   After giving away 1 apple to Xiao Hua, Xiao Ming has:
+   \[
+   4 - 1 = 3 \text{ apples}
+   \]
+
+Therefore, the final number of apples Xiao Ming has is:
+\[
+\boxed{3}
+\]

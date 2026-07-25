@@ -1,0 +1,24 @@
+To determine how many apples Xiao Ming has now, we will follow the steps of the problem carefully.
+
+1. **Initial number of apples for each person:**
+   - Xiao Ming starts with 3 apples.
+   - Xiao Hua starts with 0 apples (since she doesn't give any initially).
+   - Xiao Hong starts with 0 apples (since no information is given about her initial count).
+
+2. **Apples transferred between Xiao Ming and Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - After this transfer:
+     - Xiao Ming's new total: \(3 + 1 = 4\) apples.
+     - Xiao Hua's new total: \(0 - 1 = -1\) apples (but since it can't be negative in practical terms, let's assume it means she had none left after giving away the apple).
+
+3. **Apples transferred from Xiao Hong to Xiao Ming:**
+   - We know that Xiao Hong has twice as many apples as Xiao Ming now.
+   - Since Xiao Ming has 4 apples, Xiao Hong must have \(2 \times 4 = 8\) apples.
+   - However, Xiao Hong also carries a backpack which contains an additional 2 apples.
+   - Therefore, Xiao Hong actually has \(8 + 2 = 10\) apples.
+
+4. **Final calculation of Xiao Ming's apples:**
+   - Now, Xiao Ming has all his apples plus the 1 apple he received from Xiao Hua.
+   - So, Xiao Ming's final total is \(4 + 1 = 5\) apples.
+
+Thus, the number of apples Xiao Ming has now is \(\boxed{5}\).

@@ -1,0 +1,10 @@
+To find out how many apples Xiao Ming has now, we can follow these steps based on the information provided:
+
+1. **Initial number of apples:** 
+   - Xiao Ming starts with 3 apples.
+
+2. **Apples given by Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - So, Xiao Ming’s current number of apples is \(3 + 1 = 4\).
+
+Therefore, Xiao Ming has 4 apples now.

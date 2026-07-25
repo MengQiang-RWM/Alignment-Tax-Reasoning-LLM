@@ -1,0 +1,53 @@
+To determine how many apples Xiao Ming has now, we need to follow the information given step by step.
+
+1. **Initial number of apples Xiao Ming has:**
+   Xiao Ming starts with 3 apples.
+
+2. **Apples given by Xiao Hua to Xiao Ming:**
+   Xiao Hua gives Xiao Ming 1 apple.
+   \[
+   3 + 1 = 4
+   \]
+   So, after receiving the apple from Xiao Hua, Xiao Ming has 4 apples.
+
+3. **Number of apples Xiao Hua has before giving any away:**
+   Let's denote the initial number of apples Xiao Hua had as \( x \). After giving 1 apple to Xiao Ming, she has:
+   \[
+   x - 1
+   \]
+
+4. **Relationship between the number of apples Xiao Hua and Xiao Hong have:**
+   Xiao Hua has half as many apples as Xiao Hong. Therefore, if Xiao Hong has \( y \) apples, then:
+   \[
+   x - 1 = \frac{y}{2}
+   \]
+   Solving for \( y \):
+   \[
+   y = 2(x - 1)
+   \]
+
+5. **Number of apples Xiao Hong has:**
+   Xiao Hong has 2 more apples than Xiao Ming initially had (which is 3 apples).
+   \[
+   y = 3 + 2 = 5
+   \]
+
+6. **Substitute \( y = 5 \) into the equation \( x - 1 = \frac{y}{2} \):**
+   \[
+   x - 1 = \frac{5}{2}
+   \]
+   Solving for \( x \):
+   \[
+   x = \frac{5}{2} + 1 = \frac{5}{2} + \frac{2}{2} = \frac{7}{2} = 3.5
+   \]
+
+7. **Number of apples Xiao Ming has now:**
+   Since Xiao Ming originally had 3 apples and received 1 more, he now has:
+   \[
+   3 + 1 = 4
+   \]
+
+Thus, the final answer is:
+\[
+\boxed{4}
+\]

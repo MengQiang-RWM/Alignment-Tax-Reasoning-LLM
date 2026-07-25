@@ -1,0 +1,49 @@
+To determine how many apples Xiao Ming has after the transactions described, we can follow these steps:
+
+1. **Initial number of apples for each person:**
+   - Xiao Ming starts with 3 apples.
+   - Xiao Hua starts with \( x \) apples.
+   - Xiao Hong starts with \( y \) apples.
+
+2. **Apples given by Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - After giving away 1 apple, Xiao Hua's remaining apples are \( x - 1 \).
+
+3. **Relation between Xiao Hua's and Xiao Ming's apples:**
+   - Xiao Hua has half as many apples as Xiao Hong:
+     \[
+     x - 1 = \frac{y}{2}
+     \]
+
+4. **Apples carried by Xiao Hong:**
+   - Xiao Hong carries a backpack with 2 more apples than Xiao Ming:
+     \[
+     y = 3 + 2 = 5
+     \]
+   - Therefore, Xiao Hong initially had 5 apples.
+
+5. **Substitute \( y \) into the equation:**
+   \[
+   x - 1 = \frac{5}{2}
+   \]
+
+6. **Solve for \( x \):**
+   \[
+   x - 1 = 2.5
+   \]
+   \[
+   x = 2.5 + 1
+   \]
+   \[
+   x = 3.5
+   \]
+
+7. **Determine the final number of apples Xiao Ming has:**
+   - Initially, Xiao Ming had 3 apples.
+   - He received 1 apple from Xiao Hua.
+   - Therefore, the total number of apples Xiao Ming has now is:
+     \[
+     3 + 1 = 4
+     \]
+
+Thus, Xiao Ming has \(\boxed{4}\) apples now.

@@ -1,0 +1,18 @@
+Let's go through the problem step by step to find out how many apples Xiao Ming has now.
+
+1. **Initial Number of Apples:**
+   - Xiao Ming starts with 3 apples.
+
+2. **Apples Given by Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - So, the new number of apples Xiao Ming has is \( 3 - 1 = 2 \).
+
+3. **Apples Xiao Hua Has:**
+   - The problem states that Xiao Hua has half as many apples as Xiao Hong.
+   - We know Xiao Hong has 5 apples (as calculated previously), so Xiao Hua has \( \frac{5}{2} = 2.5 \) apples.
+
+4. **Total Number of Apples Xiao Ming Has Now:**
+   - After giving away one apple to Xiao Hua, Xiao Ming has 2 apples left.
+   - This matches our previous calculation since we didn't change the count of apples Xiao Ming has.
+
+Therefore, after Xiao Hua gives him one apple, Xiao Ming still has 2 apples.

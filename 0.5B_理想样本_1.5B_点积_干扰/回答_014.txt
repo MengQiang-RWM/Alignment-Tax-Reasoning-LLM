@@ -1,0 +1,18 @@
+To solve this problem step by step:
+
+1. **Initial number of apples:**
+   - Xiao Ming starts with 3 apples.
+
+2. **Apples given to Xiao Ming:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - So, Xiao Ming now has \(3 - 1 = 2\) apples.
+
+3. **Apples left for Xiao Hong:**
+   - Xiao Hong originally had 5 apples (since she was carrying a backpack with 2 more apples than Xiao Ming).
+   - After receiving 1 apple from Xiao Hua, she will have \(5 + 1 = 6\) apples.
+
+4. **Apples transferred to Xiao Ming:**
+   - Xiao Hong transfers 1 apple to Xiao Ming.
+   - Now, Xiao Ming has \(2 + 1 = 3\) apples.
+
+So, Xiao Ming ends up with 3 apples.

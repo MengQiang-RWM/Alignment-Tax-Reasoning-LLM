@@ -1,0 +1,22 @@
+Let's go through the steps again to ensure clarity:
+
+1. **Initial number of apples:**
+   - Xiao Ming starts with 3 apples.
+
+2. **Apples given to Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - So, after this exchange, Xiao Ming has \( 3 + 1 = 4 \) apples, and Xiao Hua has 2 apples left.
+
+3. **Apples given to Xiao Hong:**
+   - Xiao Hong originally had 2 more apples than Xiao Ming.
+   - Since Xiao Ming has 3 apples, Xiao Hong started with \( 3 + 2 = 5 \) apples.
+   - Xiao Hong then receives 1 apple from Xiao Hua.
+   - So, Xiao Hong now has \( 5 + 1 = 6 \) apples, and Xiao Hua has \( 2 - 1 = 1 \) apple left.
+
+Now, we need to find out how many apples Xiao Ming has now. From our calculations, Xiao Ming still has 4 apples.
+
+Therefore, the correct answer is:
+
+\[
+\boxed{4}
+\]

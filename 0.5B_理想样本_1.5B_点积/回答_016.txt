@@ -1,0 +1,28 @@
+To solve this problem systematically, let's break it down into clear steps and ensure each calculation aligns logically with the initial conditions provided.
+
+### Step-by-Step Solution:
+
+1. **Determine Initial Apples:**
+   - Xiao Ming starts with 3 apples.
+   
+2. **Calculate Xiao Hong’s Apples:**
+   - Xiao Hong has 2 more apples than Xiao Ming.
+     \[
+     \text{Xiao Hong's apples} = 3 + 2 = 5
+     \]
+
+3. **Calculate Xiao Hua’s Apples:**
+   - Xiao Hua has half as many apples as Xiao Hong.
+     \[
+     \text{Xiao Hua's apples} = \frac{5}{2} = 2.5
+     \]
+
+4. **Account for the Exchange Between Xiao Ming and Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+     \[
+     \text{Xiao Ming's new total} = 3 + 1 = 4
+     \]
+   - After receiving one apple from Xiao Hua, Xiao Ming now has 4 apples.
+
+### Final Answer:
+After all exchanges, Xiao Ming ends up with 4 apples. Thus, the final number of apples Xiao Ming has is \(\boxed{4}\).

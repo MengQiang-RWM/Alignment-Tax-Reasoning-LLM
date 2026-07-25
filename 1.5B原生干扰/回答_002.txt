@@ -1,0 +1,25 @@
+To determine how many apples Xiao Ming has after the transactions, we will follow these steps:
+
+1. **Initial Apples**: Xiao Ming starts with 3 apples.
+2. **Apples Given Away**: Xiao Hua gives 1 apple to Xiao Ming.
+   - After giving away 1 apple, Xiao Ming has \(3 + 1 = 4\) apples.
+
+Next, let's find out how many apples Xiao Hong has initially:
+- According to the problem, Xiao Hua has half as many apples as Xiao Hong.
+- Since Xiao Hua has 1 apple, Xiao Hong must have \(1 \times 2 = 2\) apples.
+
+Now, let's calculate how many apples Xiao Hong has after receiving 2 more apples from Xiao Ming:
+- Xiao Hong originally had 2 apples and received 2 more from Xiao Ming.
+  - Therefore, Xiao Hong now has \(2 + 2 = 4\) apples.
+
+Finally, let's verify the total number of apples in the system:
+- Xiao Ming: 4 apples
+- Xiao Hua: 1 apple
+- Xiao Hong: 4 apples
+
+Adding these together, we get:
+\[4 + 1 + 4 = 9\]
+
+So, the total number of apples is indeed 9, which matches our calculations.
+
+Therefore, Xiao Ming now has \(\boxed{4}\) apples.

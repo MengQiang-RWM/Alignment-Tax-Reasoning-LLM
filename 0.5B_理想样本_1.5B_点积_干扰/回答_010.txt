@@ -1,0 +1,14 @@
+Let's break down the problem step by step:
+
+1. **Initial Number of Apples:**
+   - Xiao Ming starts with 3 apples.
+
+2. **First Transfer from Xiao Hua:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - Now, Xiao Ming has \(3 + 1 = 4\) apples.
+
+3. **Second Transfer from Xiao Hua:**
+   - Xiao Hua gives another apple to Xiao Ming.
+   - Now, Xiao Ming has \(4 + 1 = 5\) apples.
+
+So, after both transfers, Xiao Ming ends up with \(\boxed{5}\) apples.

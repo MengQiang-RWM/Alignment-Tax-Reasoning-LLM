@@ -1,0 +1,43 @@
+Let's break down the problem step by step.
+
+1. Initially, Xiao Ming has 3 apples.
+   \[
+   \text{Apples Xiao Ming has} = 3
+   \]
+
+2. Xiao Hua gives 1 apple to Xiao Ming.
+   \[
+   \text{Apples Xiao Ming has after receiving from Xiao Hua} = 3 + 1 = 4
+   \]
+
+3. According to the problem, Xiao Hua has half as many apples as Xiao Hong.
+   \[
+   \text{Apples Xiao Hua has} = \frac{\text{Apples Xiao Hong has}}{2}
+   \]
+   Since Xiao Hua gave away 1 apple, she originally had:
+   \[
+   \text{Apples Xiao Hua had before giving to Xiao Ming} = 1 + x
+   \]
+   where \(x\) is the number of apples Xiao Hong has initially. After giving 1 apple to Xiao Ming, Xiao Hua has:
+   \[
+   \text{Apples Xiao Hua has} = (1 + x) - 1 = x
+   \]
+   Therefore, we can set up the equation:
+   \[
+   x = \frac{x}{2}
+   \]
+   Solving for \(x\), we get:
+   \[
+   2x = x \implies x = 0
+   \]
+   This means Xiao Hong also started with 0 apples.
+
+4. Xiao Hong then carries a cute backpack with 2 more apples than Xiao Ming.
+   \[
+   \text{Apples Xiao Hong has} = \text{Apples Xiao Ming has} + 2 = 4 + 2 = 6
+   \]
+
+So, Xiao Ming now has 4 apples. The final answer is:
+\[
+\boxed{4}
+\]

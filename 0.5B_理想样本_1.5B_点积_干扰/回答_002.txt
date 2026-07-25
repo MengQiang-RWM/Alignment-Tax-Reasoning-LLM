@@ -1,0 +1,10 @@
+Let's break down the problem step-by-step to find out how many apples Xiao Ming has now.
+
+### Initial Number of Apples
+- Xiao Ming initially has 3 apples.
+
+### Step 1: Xiao Hua Gives an Apple to Xiao Ming
+- Xiao Hua gives 1 apple to Xiao Ming.
+- Now, Xiao Ming's apples become \( 3 + 1 = 4 \).
+
+Therefore, Xiao Ming has **4** apples now.

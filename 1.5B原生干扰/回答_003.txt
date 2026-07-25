@@ -1,0 +1,32 @@
+Let's start by determining the number of apples each person has step-by-step.
+
+1. **Initial Number of Apples:**
+   - Xiao Ming initially has 3 apples.
+   - Let \( x \) be the number of apples Xiao Hong has.
+
+2. **Apples Given Away:**
+   - Xiao Hua gives 1 apple to Xiao Ming. Therefore, after this exchange, Xiao Ming will have:
+     \[
+     3 + 1 = 4 \text{ apples}
+     \]
+   - After receiving the apple from Xiao Hua, Xiao Ming still has 4 apples.
+
+3. **Relationship Between Xiao Hua and Xiao Hong:**
+   - According to the problem, Xiao Hua has half as many apples as Xiao Hong. Thus:
+     \[
+     1 = \frac{x}{2} \implies x = 2
+     \]
+
+4. **Number of Apples Xiao Hong Has:**
+   - We know that Xiao Hong has 2 more apples than Xiao Ming initially had (since Xiao Ming started with 3 apples):
+     \[
+     x + 2 = 2 + 2 = 4 \text{ apples}
+     \]
+
+5. **Final Count of Apples:**
+   - Xiao Ming ends up with 4 apples.
+
+Thus, the final answer is:
+\[
+\boxed{4}
+\]

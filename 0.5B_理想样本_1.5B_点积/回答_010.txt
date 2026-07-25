@@ -1,0 +1,32 @@
+Let's break down the problem and solve it step-by-step:
+
+1. **Determine the initial number of apples each person has:**
+
+   - Xiao Ming initially has 3 apples.
+   
+   - Xiao Hong has 2 more apples than Xiao Ming:
+     \[
+     \text{Xiao Hong's apples} = 3 + 2 = 5
+     \]
+
+   - Xiao Hua has half as many apples as Xiao Hong:
+     \[
+     \text{Xiao Hua's apples} = \frac{5}{2} = 2.5
+     \]
+
+2. **Calculate the number of apples Xiao Hua gives to Xiao Ming:**
+
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - Therefore, Xiao Ming receives 1 apple from Xiao Hua.
+
+3. **Update the number of apples Xiao Ming has after receiving the apple from Xiao Hua:**
+
+   - Initial apples for Xiao Ming: 3
+   - Apples received from Xiao Hua: 1
+   
+   - New total of apples for Xiao Ming:
+     \[
+     \text{New total} = 3 + 1 = 4
+     \]
+
+Therefore, after receiving one apple from Xiao Hua, Xiao Ming has 4 apples.

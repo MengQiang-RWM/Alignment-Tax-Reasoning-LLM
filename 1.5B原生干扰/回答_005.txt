@@ -1,0 +1,38 @@
+Let's break down the problem step by step:
+
+1. **Initial number of apples**: Xiao Ming starts with 3 apples.
+   \[
+   \text{Xiao Ming's initial apples} = 3
+   \]
+
+2. **Apples given by Xiao Hua**: Xiao Hua gives 1 apple to Xiao Ming.
+   \[
+   \text{Xiao Ming's new total after receiving from Xiao Hua} = 3 + 1 = 4
+   \]
+
+3. **Relation between Xiao Hua's and Xiao Hong's apples**:
+   - Xiao Hua has half as many apples as Xiao Hong.
+   \[
+   \text{Number of apples Xiao Hua has} = \frac{\text{Number of apples Xiao Hong has}}{2}
+   \]
+   Let \( x \) be the number of apples Xiao Hong has initially.
+
+4. **Relation between Xiao Hong's and Xiao Ming's apples**:
+   - Xiao Hong carries a backpack that contains 2 more apples than Xiao Ming.
+   \[
+   \text{Number of apples Xiao Hong has} = \text{Number of apples Xiao Ming has} + 2
+   \]
+   Since Xiao Ming has 4 apples initially,
+   \[
+   x = 4 + 2 = 6
+   \]
+   So, Xiao Hong has 6 apples.
+
+5. **Verification**:
+   - According to the relation in step 3: 
+     \[
+     \text{Number of apples Xiao Hua has} = \frac{6}{2} = 3
+     \]
+   This matches our earlier calculation that Xiao Hua received 1 apple from Xiao Ming.
+
+Thus, Xiao Ming ends up having 4 apples.
