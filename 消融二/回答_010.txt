@@ -1,0 +1,41 @@
+To solve the problem, let's break it down into clear steps and verify each one using Python code.
+
+1. **Initial Apples for Each Person:**
+   - Xiao Ming: 3 apples
+   - Xiao Hong: \(3 + 2 = 5\) apples
+
+2. **Apples for Xiao Hua:**
+   - Xiao Hua has half as many apples as Xiao Hong.
+   - So, Xiao Hua has \(5 / 2 = 2.5\), which rounds to 2 apples since you can't give half an apple.
+
+3. **Apples Given to Xiao Ming:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - Therefore, Xiao Ming's new total is:
+     \[
+     \text{New number of apples Xiao Ming has} = 3 + 1 = 4
+     \]
+
+Thus, after giving 1 apple to Xiao Ming, Xiao Ming has 4 apples.
+
+Now, let's use Python code to confirm our calculations:
+
+```python
+# Initial number of apples for each person
+xiaoming_initial_apples = 3
+xiao_hong_initial_apples = xiaoming_initial_apples + 2
+
+# Apples given to Xiao Ming
+apples_given_to_xiao_ming = 1
+
+# Calculate new number of apples for Xiao Ming
+new_xiaoming_apples = xiaoming_initial_apples + apples_given_to_xiao_ming
+
+print(new_xiaoming_apples)
+```
+
+Running this code will give us the final answer:
+
+```python
+4
+```
+The code confirms that after giving 1 apple to Xiao Ming, Xiao Ming has \(\boxed{4}\) apples.

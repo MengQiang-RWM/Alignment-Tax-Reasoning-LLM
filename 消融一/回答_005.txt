@@ -1,0 +1,34 @@
+Let's start by determining the number of apples each person initially has:
+
+1. **Xiao Ming**: He has 3 apples.
+   \[
+   \text{Apples Xiao Ming has} = 3
+   \]
+
+2. **Xiao Hong**: She has 2 more apples than Xiao Ming.
+   \[
+   \text{Apples Xiao Hong has} = 3 + 2 = 5
+   \]
+
+3. **Xiao Hua**: She has half as many apples as Xiao Hong.
+   \[
+   \text{Apples Xiao Hua has} = \frac{5}{2} = 2.5
+   \]
+   Since the number of apples must be an integer, we need to consider that if Xiao Hua had half an apple (which is not possible), it suggests there might be a misunderstanding in the problem setup or an error in the interpretation.
+
+Given that the problem states "Xiao Hua gives 1 apple to Xiao Ming," and assuming this scenario could lead to a valid solution where Xiao Ming ends up with 2.5 apples after receiving one from Xiao Hua, let’s adjust our approach accordingly.
+
+If Xiao Hua gives 1 apple to Xiao Ming:
+- Xiao Ming's new count: \(3 - 1 = 2\)
+- Xiao Hong's new count: \(5 + 1 = 6\)
+
+Now, let's verify these numbers:
+- Xiao Hong has 6 apples, which matches the problem statement.
+- Xiao Hua has 2 apples left.
+
+Thus, Xiao Ming indeed has 2 apples after giving 1 to Xiao Hua.
+
+So, the final answer is:
+\[
+\boxed{2}
+\]

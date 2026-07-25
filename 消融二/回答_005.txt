@@ -1,0 +1,31 @@
+Certainly! Here’s how you can solve this problem using the reference solution method:
+
+### Step-by-Step Solution:
+
+1. **Initial Setup:**
+   - Xiao Ming starts with 3 apples.
+   - Xiao Hong has 2 more apples than Xiao Ming.
+     \[
+     \text{Number of apples Xiao Hong has} = 3 + 2 = 5
+     \]
+
+2. **Apples Given to Xiao Hua:**
+   - Xiao Hua has half as many apples as Xiao Hong.
+     \[
+     \text{Number of apples Xiao Hua has} = \frac{5}{2} = 2.5
+     \]
+   - Since we can’t give half an apple, let’s assume Xiao Hua only gets 2 apples (because it doesn’t make sense to give half an apple).
+
+3. **Apples Given to Xiao Ming:**
+   - Xiao Hua gives 1 apple to Xiao Ming.
+   - Therefore, Xiao Ming’s new total is:
+     \[
+     \text{New number of apples Xiao Ming has} = 3 + 1 = 4
+     \]
+
+Thus, after giving 1 apple to Xiao Ming, Xiao Ming has 4 apples. 
+
+So, the final answer is:
+\[
+\boxed{4}
+\]

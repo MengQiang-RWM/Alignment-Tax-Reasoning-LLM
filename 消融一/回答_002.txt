@@ -1,0 +1,10 @@
+Let's break down the problem step by step:
+
+1. **Initial number of apples**: 
+   - Xiao Ming: 3 apples.
+   - Xiao Hong: 2 more apples than Xiao Ming, so \( 3 + 2 = 5 \) apples.
+
+2. **Apples given by Xiao Hua**:
+   - Xiao Hua gives 1 apple to Xiao Ming, so Xiao Ming’s new count is \( 3 - 1 = 2 \) apples.
+
+Therefore, after receiving one apple from Xiao Hua, Xiao Ming has 2 apples left.

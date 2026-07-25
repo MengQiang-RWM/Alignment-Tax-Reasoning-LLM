@@ -1,0 +1,103 @@
+timestamp,stage,question_index,question_text,start_time,end_time,duration_seconds,cpu_before,cpu_peak,memory_used_mb,has_error,error_types,severity,final_response,answer
+2026-07-14_16-45-18,单模型消融,1,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:44:58,2026-07-14 16:45:18,19.1829,0.0,,1449.77,True,运算方向反转,high,"To determine how many apples Xiao Ming has after giving one apple to Xiao Ming, we will follow these steps:
+
+1. **Determine the number of apples Xiao Hong has:**
+   - Xiao Hong has 2 more apples than ...",wrong
+2026-07-14_16-45-28,单模型消融,2,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:45:18,2026-07-14 16:45:28,9.9139,464.3,,1442.92,True,运算方向反转,high,"Let's break down the problem step by step:
+
+1. **Initial number of apples**: 
+   - Xiao Ming: 3 apples.
+   - Xiao Hong: 2 more apples than Xiao Ming, so \( 3 + 2 = 5 \) apples.
+
+2. **Apples given by X...",wrong
+2026-07-14_16-45-53,单模型消融,3,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:45:28,2026-07-14 16:45:53,25.7819,465.0,,1450.38,False,,none,"To determine how many apples Xiao Ming has after the transaction with Xiao Hua, we will follow these steps:
+
+1. Determine how many apples Xiao Hong has.
+2. Determine how many apples Xiao Hua has befor...",4
+2026-07-14_16-46-08,单模型消融,4,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:45:53,2026-07-14 16:46:08,14.6359,464.9,,1449.52,True,目标漂移,high,"Let's start by determining how many apples each person initially has:
+
+- Xiao Ming has 3 apples.
+- Xiao Hong has 2 more apples than Xiao Ming, so Xiao Hong has \(3 + 2 = 5\) apples.
+- Xiao Hua has hal...",wrong
+2026-07-14_16-46-35,单模型消融,5,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:46:08,2026-07-14 16:46:35,26.5783,467.2,,1449.44,True,运算方向反转,high,"Let's start by determining the number of apples each person initially has:
+
+1. **Xiao Ming**: He has 3 apples.
+   \[
+   \text{Apples Xiao Ming has} = 3
+   \]
+
+2. **Xiao Hong**: She has 2 more apples t...",wrong
+2026-07-14_16-46-46,单模型消融,6,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:46:35,2026-07-14 16:46:46,11.2033,464.9,,1445.29,True,静默跳跃-无害型,low,"Let's break down the problem step by step:
+
+1. **Initial number of apples:**
+   - Xiao Ming has 3 apples.
+   - Xiao Hong has 2 more apples than Xiao Ming, so Xiao Hong has \(3 + 2 = 5\) apples.
+
+2. **...",4
+2026-07-14_16-47-02,单模型消融,7,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:46:46,2026-07-14 16:47:02,15.6571,467.3,,1450.11,False,,none,"Let's start by determining how many apples each person has initially.
+
+1. **Initial number of apples for Xiao Ming:**
+   - Xiao Ming has 3 apples.
+   
+2. **Initial number of apples for Xiao Hong:**
+  ...",4
+2026-07-14_16-47-22,单模型消融,8,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:47:02,2026-07-14 16:47:22,20.1427,465.7,,1448.95,True,运算方向反转,high,"To determine how many apples Xiao Ming has after receiving one from Xiao Hua, we can follow these steps:
+
+1. **Determine the number of apples Xiao Hong has:**
+   - Xiao Hong has 2 more apples than Xia...",wrong
+2026-07-14_16-47-44,单模型消融,9,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:47:22,2026-07-14 16:47:44,22.3095,618.7,,1449.52,True,静默跳跃-无害型,low,"To determine how many apples Xiao Ming has after giving one apple to Xiao Hong, we can follow these steps:
+
+1. **Initial number of apples:**
+   - Xiao Ming has 3 apples.
+   - Xiao Hong has 2 more appl...",4
+2026-07-14_16-48-03,单模型消融,10,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:47:44,2026-07-14 16:48:03,18.6755,618.4,,1449.15,False,,none,"Let's start by determining the number of apples each person has initially.
+
+1. **Xiao Ming**:
+   - Xiao Ming has 3 apples.
+   
+2. **Xiao Hong**:
+   - Xiao Hong has 2 more apples than Xiao Ming.
+   - T...",4
+2026-07-14_16-48-29,单模型消融,11,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:48:03,2026-07-14 16:48:29,26.2476,465.6,,1449.5,True,运算方向反转,high,"To determine how many apples Xiao Ming has after the transaction with Xiao Hua, we will follow these steps:
+
+1. Determine how many apples Xiao Hong has.
+2. Determine how many apples Xiao Hua has initi...",wrong
+2026-07-14_16-48-49,单模型消融,12,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:48:29,2026-07-14 16:48:49,20.0838,465.0,,1449.46,False,,none,"To determine how many apples Xiao Ming has after giving one apple to Xiao Ming, we will follow these steps:
+
+1. **Determine the number of apples Xiao Hong has:**
+   - Xiao Hong has 2 more apples than ...",4
+2026-07-14_16-49-04,单模型消融,13,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:48:49,2026-07-14 16:49:04,14.1308,464.2,,1448.05,False,,none,"Let's start by determining how many apples each person initially has:
+
+1. Xiao Ming has 3 apples.
+2. Xiao Hong has 2 more apples than Xiao Ming, so Xiao Hong has \(3 + 2 = 5\) apples.
+3. Xiao Hua has ...",4
+2026-07-14_16-49-42,单模型消融,14,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:49:04,2026-07-14 16:49:42,38.2476,463.7,,1447.46,False,,none,"To determine how many apples Xiao Ming has after the exchange with Xiao Hua, we will follow these steps:
+
+1. **Determine the number of apples Xiao Hong has:**
+   - Xiao Ming has 3 apples.
+   - Xiao Ho...",4
+2026-07-14_16-50-11,单模型消融,15,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:49:42,2026-07-14 16:50:11,28.9503,466.8,,1443.75,False,,none,"To determine how many apples Xiao Ming has after the exchange with Xiao Hua, we can follow these steps:
+
+1. **Determine the number of apples Xiao Hong has:**
+   - Xiao Hong has 2 more apples than Xiao...",4
+2026-07-14_16-50-35,单模型消融,16,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:50:11,2026-07-14 16:50:35,24.4779,464.3,,1444.16,True,运算方向反转,high,"To determine how many apples Xiao Ming has after giving one apple to Xiao Ming, we need to follow these steps:
+
+1. **Determine the number of apples Xiao Hong has:**
+   - Xiao Hong has 2 more apples th...",wrong
+2026-07-14_16-50-51,单模型消融,17,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:50:35,2026-07-14 16:50:51,15.9592,467.6,,1444.5,True,运算方向反转,high,"To determine how many apples Xiao Ming has after receiving one from Xiao Hua, we can follow these steps:
+
+1. **Initial number of apples:**
+   - Xiao Ming starts with 3 apples.
+   - Xiao Hong has 2 mor...",wrong
+2026-07-14_16-51-13,单模型消融,18,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:50:51,2026-07-14 16:51:13,21.9301,620.3,,1444.48,False,,none,"To determine how many apples Xiao Ming has after receiving an apple from Xiao Hua, we will follow these steps:
+
+1. **Determine the number of apples Xiao Hong has:**
+   - Xiao Hong has 2 more apples th...",4
+2026-07-14_16-51-43,单模型消融,19,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:51:13,2026-07-14 16:51:43,29.9164,620.5,,1443.76,False,,none,"To determine how many apples Xiao Ming has after receiving an apple from Xiao Hua, we will follow these steps:
+
+1. **Determine the number of apples Xiao Hong has:**
+   - Xiao Hong has 2 more apples th...",4
+2026-07-14_16-52-07,单模型消融,20,Xiao Ming has 3 apples. Xiao Hong has 2 more apples than Xiao Ming. Xiao Hua has...,2026-07-14 16:51:43,2026-07-14 16:52:07,23.4911,560.3,,1443.7,False,,none,"To determine how many apples Xiao Ming has after giving 1 apple to Xiao Hong, we can follow these steps:
+
+1. **Determine the number of apples Xiao Hong has:**
+   - Xiao Hong has 2 more apples than Xia...",4
