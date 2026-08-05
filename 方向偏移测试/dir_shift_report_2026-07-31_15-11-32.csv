@@ -1,0 +1,11 @@
+sample_id,category,round_id,merge_norm,projected_dim,cos_cal,cal_status,s_t,delta_norm,observer_var,kappa_dis,kappa_str,converge_flag
+dir_shift_1,negative,1,63.0,256,0.9991,passed,0.0009,1.0,0.0,23.7327,0.0,False
+dir_shift_1,negative,2,64.0,256,0.9985,passed,0.0015,1.0,0.0,23.7327,0.0,False
+dir_shift_2,negative,1,64.5,256,0.9975,passed,0.0025,1.0,0.0,22.4807,0.0,False
+dir_shift_2,negative,2,66.0,256,0.9982,passed,0.0018,1.0,0.0,22.4807,0.0,False
+dir_shift_3,positive,1,67.5,256,1.0,passed,0.0,1.0,0.0,8.9941,0.0,False
+dir_shift_3,positive,2,67.5,256,1.0,passed,0.0,1.0,0.0,8.9941,0.0,False
+dir_shift_4,positive,1,67.5,256,1.0,passed,0.0,1.0,0.0,8.9941,0.0,False
+dir_shift_4,positive,2,67.5,256,1.0,passed,0.0,1.0,0.0,8.9941,0.0,False
+dir_shift_5,boundary,1,67.0,256,0.9941,passed,0.0059,1.0,0.0,20.404,0.0,False
+dir_shift_5,boundary,2,68.0,256,0.9988,passed,0.0012,1.0,0.0,20.404,0.0,False
