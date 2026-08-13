@@ -1,0 +1,25 @@
+Let's start by determining how many apples Xiao Hong has initially:
+
+- Xiao Ming has 3 apples.
+- Xiao Hong has 2 more apples than Xiao Ming.
+
+So, the number of apples Xiao Hong has is:
+\[ 3 + 2 = 5 \text{ apples} \]
+
+Next, we calculate how many apples Xiao Hua has. According to the problem, Xiao Hua has half as many apples as Xiao Hong:
+
+\[ \text{Number of apples Xiao Hua has} = \frac{5}{2} = 2.5 \text{ apples} \]
+
+Since the number of apples must be an integer (you can't give half an apple), let's assume Xiao Hua gives 1 apple to Xiao Ming. The new situation is:
+
+- Xiao Ming still has 3 apples.
+- Xiao Hong still has 5 apples.
+- Xiao Hua now has \( 2.5 + 1 = 3.5 \) apples, but since we're dealing with whole apples, it's reasonable to round down to 3 apples for simplicity in this context.
+
+Now, Xiao Hua gives 1 apple to Xiao Ming:
+
+\[ \text{New number of apples Xiao Ming has} = 3 - 1 = 2 \text{ apples} \]
+\[ \text{New number of apples Xiao Hong has} = 5 - 1 = 4 \text{ apples} \]
+\[ \text{Total number of apples now} = 2 + 4 = 6 \text{ apples} \]
+
+Therefore, after giving 1 apple to Xiao Ming, Xiao Ming now has 2 apples.

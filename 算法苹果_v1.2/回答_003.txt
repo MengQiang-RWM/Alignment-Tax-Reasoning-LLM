@@ -1,0 +1,33 @@
+Let's break down the problem step by step:
+
+1. **Initial number of apples:**
+   - Xiao Ming has 3 apples.
+   - Xiao Hong has 2 more apples than Xiao Ming.
+     \[
+     \text{Apples Xiao Hong has} = 3 + 2 = 5
+     \]
+   - Therefore, Xiao Hong has 5 apples.
+
+2. **Total initial apples:**
+   - Adding up all the apples:
+     \[
+     \text{Total initial apples} = 3 (\text{Xiao Ming}) + 5 (\text{Xiao Hong}) = 8
+     \]
+
+3. **Apples given by Xiao Hua:**
+   - Xiao Hua has half as many apples as Xiao Hong.
+     \[
+     \text{Apples Xiao Hua has} = \frac{5}{2} = 2.5
+     \]
+   - Since we can't give half an apple in this context, let's assume Xiao Hua gives 2 apples (as it is common practice to give whole apples).
+
+4. **Apples remaining with Xiao Ming after giving 2 apples:**
+   - Subtracting the apples given by Xiao Hua from his total:
+     \[
+     \text{Remaining apples with Xiao Ming} = 8 - 2 = 6
+     \]
+
+Therefore, Xiao Ming has 6 apples now. The final answer is:
+\[
+\boxed{6}
+\]

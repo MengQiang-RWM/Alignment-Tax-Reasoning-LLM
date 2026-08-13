@@ -1,0 +1,28 @@
+To determine how many apples Xiao Ming has after giving one to Xiao Hong, we will follow these steps:
+
+1. **Initial number of apples**: Xiao Ming starts with 3 apples.
+2. **Apples given to Xiao Hong**: Xiao Hong has 2 more apples than Xiao Ming initially. Therefore, Xiao Hong receives:
+   \[
+   3 + 2 = 5 \text{ apples}
+   \]
+3. **Total apples before the exchange**: Adding the apples received from Xiao Hong to the initial amount gives us the total number of apples Xiao Ming had before giving any away:
+   \[
+   3 + 5 = 8 \text{ apples}
+   \]
+4. **Apples given to Xiao Hua**: Xiao Hua has half as many apples as Xiao Hong. Since Xiao Hong has 5 apples, Xiao Hua has:
+   \[
+   \frac{5}{2} = 2.5 \text{ apples}
+   \]
+   However, since we can't have half an apple in this context, let's assume the problem meant "half" as a whole number or that it was intended for a different interpretation (e.g., assuming Xiao Hua received 2 apples instead). For simplicity, let's consider the integer part of the division:
+   \[
+   2 \text{ apples}
+   \]
+5. **Total apples after the exchange**: Subtracting the apples given to Xiao Hua from the total number of apples before the exchange gives us the new total number of apples:
+   \[
+   8 - 2 = 6 \text{ apples}
+   \]
+
+Therefore, after giving one apple to Xiao Ming, Xiao Ming has 6 apples. The final answer is:
+\[
+\boxed{6}
+\]
